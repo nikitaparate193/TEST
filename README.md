@@ -7,7 +7,7 @@
 
 ## **Install**
 ```
- npm install
+npm install
 ``` 
 
 ## **Usage**
@@ -16,8 +16,10 @@ npm run start
 ```
 
 ## **Run tests**
+```test
+npm run test
+```
 
-> npm run [test](https://github.com/nikitaparate193/test.git)
 
 
 
@@ -36,6 +38,9 @@ Feel free to check [issues page](https://docs.github.com/en/communities/setting-
 ## **Show your support**
 
 Give a ⭐ if this project helped you!
+
+![patreon](patron.png)
+
 
 ## 📝 **License**
 
