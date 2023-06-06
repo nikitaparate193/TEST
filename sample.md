@@ -6,16 +6,20 @@
 * node >=9.3.0
 
 ## **Install**
-
->> npm install
+```
+ npm install
+``` 
 
 ## **Usage**
-
-> npm run start
+```
+npm run start
+```
 
 ## **Run tests**
 
 > npm run [test](https://github.com/nikitaparate193/test.git)
+
+
 
 ## **Author**
 
